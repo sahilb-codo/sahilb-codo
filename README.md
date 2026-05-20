@@ -1,7 +1,7 @@
 <h1 align="center">Hello<img src="./assets/hand-waving-hand.gif" width="30px" height="30px"> I'm Sahil</h1>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Vaibhav%20Patel&fontSize=50&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Building%20things%20for%20the%20web&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sahil Bhojani&fontSize=50&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Building%20things%20for%20the%20web&descAlignY=55&descAlign=50" />
 </div>
 
 <br/>
