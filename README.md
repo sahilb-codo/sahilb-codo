@@ -55,11 +55,11 @@
 ## 📊 My GitHub Data:
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sahilb-codo&show_icons=true&theme=dark&hide_rank=true" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=sahilb-codo&show_icons=true&theme=dark&hide_rank=true" />
   <br/><br/>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilb-codo&theme=dark" alt="sahilb-codo" />
   <br/><br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilb-codo&layout=compact&theme=dark" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sahilb-codo&layout=compact&theme=dark" />
 </div>
 
 <br/>
